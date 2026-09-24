@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khushi051102/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/khushi051102/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/khushi051102/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/khushi051102/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/khushi051102/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/khushi051102/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [1903-largest-odd-number-in-string](https://github.com/khushi051102/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
