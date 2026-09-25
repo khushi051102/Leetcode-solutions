@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/khushi051102/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/khushi051102/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/khushi051102/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khushi051102/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/khushi051102/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/khushi051102/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/khushi051102/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/khushi051102/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/khushi051102/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/khushi051102/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/khushi051102/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/khushi051102/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/khushi051102/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
