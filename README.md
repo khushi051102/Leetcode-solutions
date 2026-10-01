@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/khushi051102/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushi051102/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/khushi051102/Leetcode-solutions/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/khushi051102/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/khushi051102/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/khushi051102/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/khushi051102/Leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/khushi051102/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/khushi051102/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushi051102/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/khushi051102/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 ## Simulation
 |  |
 | ------- |
