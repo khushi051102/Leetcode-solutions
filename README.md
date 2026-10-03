@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/khushi051102/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/khushi051102/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushi051102/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/khushi051102/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/khushi051102/Leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/khushi051102/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/khushi051102/Leetcode-solutions/tree/master/0169-majority-element) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/khushi051102/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/khushi051102/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/khushi051102/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/khushi051102/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/khushi051102/Leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/khushi051102/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/khushi051102/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
