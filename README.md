@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/khushi051102/Leetcode-solutions/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khushi051102/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khushi051102/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/khushi051102/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khushi051102/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/khushi051102/Leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/khushi051102/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/khushi051102/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khushi051102/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/khushi051102/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/khushi051102/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/khushi051102/Leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/khushi051102/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/khushi051102/Leetcode-solutions/tree/master/0561-array-partition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khushi051102/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/khushi051102/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/khushi051102/Leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/khushi051102/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/khushi051102/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/khushi051102/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/khushi051102/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khushi051102/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
