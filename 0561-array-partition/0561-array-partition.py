@@ -1,10 +1,9 @@
 class Solution:
     def arrayPairSum(self, nums: List[int]) -> int:
         new=sorted(nums)
-        x=[]
+        total=0
         i=0
         while i<len(new):
-            j=min(new[i],new[i+1])
-            x.append(j)
+            total+=new[i]
             i+=2
-        return sum(x)
+        return total
