@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/khushi051102/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/khushi051102/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0870-advantage-shuffle](https://github.com/khushi051102/Leetcode-solutions/tree/master/0870-advantage-shuffle) |
+| [0881-boats-to-save-people](https://github.com/khushi051102/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/khushi051102/Leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/khushi051102/Leetcode-solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khushi051102/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/khushi051102/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/khushi051102/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0870-advantage-shuffle](https://github.com/khushi051102/Leetcode-solutions/tree/master/0870-advantage-shuffle) |
+| [0881-boats-to-save-people](https://github.com/khushi051102/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/khushi051102/Leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/khushi051102/Leetcode-solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khushi051102/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/khushi051102/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/khushi051102/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0870-advantage-shuffle](https://github.com/khushi051102/Leetcode-solutions/tree/master/0870-advantage-shuffle) |
+| [0881-boats-to-save-people](https://github.com/khushi051102/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/khushi051102/Leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/khushi051102/Leetcode-solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khushi051102/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/khushi051102/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/khushi051102/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0870-advantage-shuffle](https://github.com/khushi051102/Leetcode-solutions/tree/master/0870-advantage-shuffle) |
+| [0881-boats-to-save-people](https://github.com/khushi051102/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/khushi051102/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khushi051102/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -242,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/khushi051102/Leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/khushi051102/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
