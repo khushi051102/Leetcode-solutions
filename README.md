@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/khushi051102/Leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/khushi051102/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/khushi051102/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/khushi051102/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/khushi051102/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/khushi051102/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/khushi051102/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/khushi051102/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/khushi051102/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/khushi051102/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/khushi051102/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/khushi051102/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/khushi051102/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/khushi051102/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/khushi051102/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/khushi051102/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/khushi051102/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/khushi051102/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/khushi051102/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/khushi051102/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/khushi051102/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/khushi051102/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/khushi051102/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/khushi051102/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/khushi051102/Leetcode-solutions/tree/master/0344-reverse-string) |
