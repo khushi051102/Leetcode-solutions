@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/khushi051102/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0870-advantage-shuffle](https://github.com/khushi051102/Leetcode-solutions/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/khushi051102/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [1054-distant-barcodes](https://github.com/khushi051102/Leetcode-solutions/tree/master/1054-distant-barcodes) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/khushi051102/Leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/khushi051102/Leetcode-solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khushi051102/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/khushi051102/Leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0870-advantage-shuffle](https://github.com/khushi051102/Leetcode-solutions/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/khushi051102/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [1054-distant-barcodes](https://github.com/khushi051102/Leetcode-solutions/tree/master/1054-distant-barcodes) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/khushi051102/Leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/khushi051102/Leetcode-solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khushi051102/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/khushi051102/Leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0870-advantage-shuffle](https://github.com/khushi051102/Leetcode-solutions/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/khushi051102/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [1054-distant-barcodes](https://github.com/khushi051102/Leetcode-solutions/tree/master/1054-distant-barcodes) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/khushi051102/Leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/khushi051102/Leetcode-solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/khushi051102/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/khushi051102/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/khushi051102/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/khushi051102/Leetcode-solutions/tree/master/0767-reorganize-string) |
+| [1054-distant-barcodes](https://github.com/khushi051102/Leetcode-solutions/tree/master/1054-distant-barcodes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/khushi051102/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/khushi051102/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/khushi051102/Leetcode-solutions/tree/master/0767-reorganize-string) |
+| [1054-distant-barcodes](https://github.com/khushi051102/Leetcode-solutions/tree/master/1054-distant-barcodes) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -200,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/khushi051102/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/khushi051102/Leetcode-solutions/tree/master/0767-reorganize-string) |
+| [1054-distant-barcodes](https://github.com/khushi051102/Leetcode-solutions/tree/master/1054-distant-barcodes) |
 ## Bucket Sort
 |  |
 | ------- |
